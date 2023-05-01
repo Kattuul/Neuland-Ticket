@@ -1,1 +1,2 @@
 # Neuland-Ticket
+Dieses privat organisierte Communityprojekt soll dazu dienen, eine bundesweite, möglichst aktuelle und leicht verständliche Übersicht für den Erwerb eines Deutschland-Tickets als Chipkarte oder Papierticket zu schaffen. Die Informationen können unter Umständen veraltet sein und werden ohne jegliche Gewähr zur kostenfreien Nutzung hier angeboten. Dieses Repository steht in keiner Verbindung mit den jeweiligen Anbietern im ÖPNV / SPNV.
