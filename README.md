@@ -19,3 +19,5 @@ To-Do:
 Desiderate: 
 - Suchfunktion mit Filtern (Angebote, Ticketart, Standort, Postleitzahl etc.)
 - Einbindung einer interaktiven Karte → semantische Datenbank?
+
+📧: kattuul_github [at] posteo.de
