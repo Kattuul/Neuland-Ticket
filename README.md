@@ -1,4 +1,4 @@
-# Neuland-Ticket
+# Neuland-Ticket - Stand: 18. Juni 2023
 Dieses privat organisierte, nicht-kommerzielle Communityprojekt soll dazu dienen, eine bundesweite, möglichst aktuelle und leicht verständliche Übersicht für den Erwerb eines Deutschland-Tickets als Chipkarte oder Papierticket zu schaffen. Alle sind willkommen, durch ihre Recherche etwas beizutragen.
 
 Bitte beachten:
